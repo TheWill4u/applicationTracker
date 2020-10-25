@@ -79,6 +79,7 @@ const boardSlice = createSlice({
     /*console.log(
       `boardIndex: ${boardIndex}, listIndex: ${listIndex}, destinationList: ${destinationList}, copy: ${copy}`
     );*/
+    //thing
     state[boardIndex].boardList[listIndex].list.splice(targetItem, 1);
   }
 });
