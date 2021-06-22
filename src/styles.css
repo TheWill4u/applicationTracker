@@ -1,0 +1,14 @@
+html, body{
+  background-color:#a1eafb;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
